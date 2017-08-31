@@ -1,7 +1,7 @@
 //
 //  main.cpp
 //  Design Pattern
-//
+//  This is try the github 
 //  Created by Eric Shi on 9/27/16.
 //  Copyright © 2016 Eric Shi. All rights reserved.
 //
